@@ -1,0 +1,68 @@
+{
+  "name": "ai-berkshire",
+  "description": "AI Berkshire — 价值投资研究 Skill 合集。四大师框架：巴菲特、芒格、段永平、李录。",
+  "version": "1.0.0",
+  "skills": [
+    {
+      "name": "investment-research",
+      "description": "投资研究：巴菲特-芒格-段永平-李录 四大师综合分析框架",
+      "path": ".opencode/skills/investment-research.md"
+    },
+    {
+      "name": "investment-team",
+      "description": "投资团队：四大师并行研究框架",
+      "path": ".opencode/skills/investment-team.md"
+    },
+    {
+      "name": "investment-checklist",
+      "description": "投资检查清单：快速筛选框架",
+      "path": ".opencode/skills/investment-checklist.md"
+    },
+    {
+      "name": "industry-research",
+      "description": "行业研究：行业分析框架",
+      "path": ".opencode/skills/industry-research.md"
+    },
+    {
+      "name": "private-company-research",
+      "description": "非上市公司研究：私有公司分析框架",
+      "path": ".opencode/skills/private-company-research.md"
+    },
+    {
+      "name": "earnings-review",
+      "description": "财报精读：季度/年度财报分析",
+      "path": ".opencode/skills/earnings-review.md"
+    },
+    {
+      "name": "thesis-tracker",
+      "description": "投资论文追踪：长期投资观点跟踪",
+      "path": ".opencode/skills/thesis-tracker.md"
+    },
+    {
+      "name": "portfolio-review",
+      "description": "投资组合管理：持仓分析与再平衡",
+      "path": ".opencode/skills/portfolio-review.md"
+    },
+    {
+      "name": "management-deep-dive",
+      "description": "管理层深度研究：CEO/创始人评估",
+      "path": ".opencode/skills/management-deep-dive.md"
+    },
+    {
+      "name": "financial-data",
+      "description": "金融数据源规范：数据收集与验证",
+      "path": ".opencode/skills/financial-data.md"
+    },
+    {
+      "name": "dyp-ask",
+      "description": "段永平问答：投资哲学与决策框架",
+      "path": ".opencode/skills/dyp-ask.md"
+    }
+  ],
+  "agents": {},
+  "mcpServers": {},
+  "settings": {
+    "language": "zh-CN",
+    "timezone": "Asia/Shanghai"
+  }
+}
